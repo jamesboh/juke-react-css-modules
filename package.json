@@ -54,6 +54,7 @@
     "chai-spies": "0.7.1",
     "css-loader": "^0.26.1",
     "mocha": "^2.5.1",
+    "react-css-modules": "^4.1.0",
     "style-loader": "^0.13.1",
     "testem": "1.2.2"
   }

@@ -1,18 +1,22 @@
 import React from 'react';
 import SongsContainer from '../containers/SongsContainer';
 import styles from '../styles/Album.css';
+import CSSModules from 'react-css-modules';
 
-export default function (props) {
+class Album extends React.Component {
+  render () {
+    const album = this.props.selectedAlbum;
 
-  const album = props.selectedAlbum;
-
-  return (
-    <div className={ styles.album }>
-      <div>
-        <h3>{ album.name }</h3>
-        <img src={ album.imageUrl } className="img-thumbnail"/>
+    return (
+      <div styleName="album">
+        <div>
+          <h3>{ album.name }</h3>
+          <img src={ album.imageUrl } className="img-thumbnail"/>
+        </div>
+        <SongsContainer songs={album.songs} />
       </div>
-      <SongsContainer songs={album.songs} />
-    </div>
-  );
+    );
+  }
 }
+
+export default CSSModules(Album, styles)
