@@ -1,6 +1,7 @@
 'use strict';
 
 var webpack = require('webpack');
+var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
   entry: './browser/react/index.js',
@@ -22,8 +23,11 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        loader: 'style-loader!css-loader?modules=true&localIdentName=[name]__[local]___[hash:base64:5]'
+        loader: ExtractTextPlugin.extract('style-loader','css-loader?modules=true&localIdentName=[name]__[local]___[hash:base64:5]')
       }
     ]
-  }
+  },
+  plugins: [
+    new ExtractTextPlugin('./public/style.css')
+  ]
 };
