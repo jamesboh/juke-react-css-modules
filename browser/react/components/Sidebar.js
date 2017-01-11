@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
+import styles from '../styles/Sidebar.css';
 
 export default function (props) {
 
@@ -7,24 +8,24 @@ export default function (props) {
 
   return (
     <sidebar>
-      <img src="juke.svg" className="logo"/>
+      <img src="juke.svg" className={ styles.logo }/>
       <section>
-        <h4 className="menu-item">
+        <h4 className={ styles['menu-item'] }>
           <Link to='/albums'>ALBUMS</Link>
         </h4>
       </section>
       <section>
-        <h4 className="menu-item">
+        <h4 className={ styles['menu-item'] }>
           <Link to='/artists'>ARTISTS</Link>
         </h4>
       </section>
       <section>
-        <h4 className="menu-item">
+        <h4 className={ styles['menu-item'] }>
           <Link to='/lyrics'>LYRICS</Link>
         </h4>
       </section>
       <section>
-        <h4 className="menu-item">
+        <h4 className={ styles['menu-item'] }>
           <Link to='/stations'>STATIONS</Link>
         </h4>
       </section>
@@ -42,7 +43,7 @@ export default function (props) {
         {
           playlists.map(playlist => {
             return (
-              <li key={playlist.id} className="playlist-item menu-item">
+              <li key={playlist.id} className={`${ styles['playlist-item'] } menu-item`}>
                 <Link to={`/playlists/${playlist.id}`}>{playlist.name}</Link>
               </li>
             );

@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  background: #222222;
+  padding-bottom: 56px; 
+}
+
+.main {
+  padding-left: 0; 
+}
