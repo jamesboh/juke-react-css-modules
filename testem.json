@@ -1,0 +1,10 @@
+{
+  "framework": "mocha+chai",
+  "src_files": [
+    "node_modules/angular/angular.js",
+    "node_modules/angular-mocks/angular-mocks.js",
+    "node_modules/chai-spies/chai-spies.js",
+    "browser/js/module.js",
+    "browser/js/player/**/*.js"
+  ]
+}

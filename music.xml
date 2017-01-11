@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.4.1.6</string>
+	<key>Date</key><date>2016-07-21T15:25:20Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>956391D7ED2D5D06</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7789</key>
+		<dict>
+			<key>Track ID</key><integer>7789</integer>
+			<key>Size</key><integer>4724431</integer>
+			<key>Total Time</key><integer>116897</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>152</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6D9311437E30880</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Tea Party</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Tea Party</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/01%20The%20Tea%20Party.mp3</string>
+		</dict>
+		<key>7794</key>
+		<dict>
+			<key>Track ID</key><integer>7794</integer>
+			<key>Size</key><integer>5632447</integer>
+			<key>Total Time</key><integer>139598</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9ED695133B1BA404</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>After Christmas</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/02%20After%20Christmas.mp3</string>
+		</dict>
+		<key>7797</key>
+		<dict>
+			<key>Track ID</key><integer>7797</integer>
+			<key>Size</key><integer>6338798</integer>
+			<key>Total Time</key><integer>157257</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86332E2800E0F48B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>My Song For January</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/03%20My%20Song%20For%20January.mp3</string>
+		</dict>
+		<key>7800</key>
+		<dict>
+			<key>Track ID</key><integer>7800</integer>
+			<key>Size</key><integer>3170667</integer>
+			<key>Total Time</key><integer>78053</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09C1313858280F87</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Notebook Reading</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/04%20Notebook%20Reading.mp3</string>
+		</dict>
+		<key>7803</key>
+		<dict>
+			<key>Track ID</key><integer>7803</integer>
+			<key>Size</key><integer>4838324</integer>
+			<key>Total Time</key><integer>148349</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>114</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>670BCC5A85F48CD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Seeing The Future</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/05%20Seeing%20The%20Future.mp3</string>
+		</dict>
+		<key>7806</key>
+		<dict>
+			<key>Track ID</key><integer>7806</integer>
+			<key>Size</key><integer>6341306</integer>
+			<key>Total Time</key><integer>196649</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0198730895174D77</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Summers Coming</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/06%20Summers%20Coming.mp3</string>
+		</dict>
+		<key>7809</key>
+		<dict>
+			<key>Track ID</key><integer>7809</integer>
+			<key>Size</key><integer>4822651</integer>
+			<key>Total Time</key><integer>198922</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>70</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB79F686C23C852F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Nights Tale</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/07%20Nights%20Tale.mp3</string>
+		</dict>
+		<key>7812</key>
+		<dict>
+			<key>Track ID</key><integer>7812</integer>
+			<key>Size</key><integer>8876855</integer>
+			<key>Total Time</key><integer>220708</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9A34AB4EAF05A28</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Leave Well Enough Alone (Instrumental)</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/08%20Leave%20Well%20Enough%20Alone%20(Instrumental).mp3</string>
+		</dict>
+		<key>7815</key>
+		<dict>
+			<key>Track ID</key><integer>7815</integer>
+			<key>Size</key><integer>8808937</integer>
+			<key>Total Time</key><integer>219010</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4BF57C4CAA8936F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Stop It (Instrumental)</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/09%20Stop%20It%20(Instrumental).mp3</string>
+		</dict>
+		<key>7818</key>
+		<dict>
+			<key>Track ID</key><integer>7818</integer>
+			<key>Size</key><integer>8883125</integer>
+			<key>Total Time</key><integer>220865</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>182CAD82B558588F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Waking Up (Instrumental)</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/10%20Waking%20Up%20(Instrumental).mp3</string>
+		</dict>
+		<key>7821</key>
+		<dict>
+			<key>Track ID</key><integer>7821</integer>
+			<key>Size</key><integer>8089002</integer>
+			<key>Total Time</key><integer>201012</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACF1D2593BD168E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Wonderland (Instrumental)</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/11%20Wonderland%20(Instrumental).mp3</string>
+		</dict>
+		<key>7824</key>
+		<dict>
+			<key>Track ID</key><integer>7824</integer>
+			<key>Size</key><integer>8482929</integer>
+			<key>Total Time</key><integer>210860</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2016-02-08T08:50:51Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD777595FE547B30</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>After The Week I've Had</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Creative Commons Volume 2</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Creative%20Commons%20Volume%202/12%20After%20The%20Week%20I've%20Had.mp3</string>
+		</dict>
+		<key>7827</key>
+		<dict>
+			<key>Track ID</key><integer>7827</integer>
+			<key>Size</key><integer>10304850</integer>
+			<key>Total Time</key><integer>253544</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-02-08T08:48:12Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91F60B5F8A105E41</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Shooting Star</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Zenith</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Zenith/01%20Shooting%20Star.mp3</string>
+		</dict>
+		<key>7830</key>
+		<dict>
+			<key>Track ID</key><integer>7830</integer>
+			<key>Size</key><integer>6615316</integer>
+			<key>Total Time</key><integer>161306</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-02-08T08:48:12Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>634E12A0268C38E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Stars Are Out</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Zenith</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Stars Are Out</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Zenith/02%20The%20Stars%20Are%20Out.mp3</string>
+		</dict>
+		<key>7833</key>
+		<dict>
+			<key>Track ID</key><integer>7833</integer>
+			<key>Size</key><integer>4365778</integer>
+			<key>Total Time</key><integer>105064</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-02-08T08:48:12Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>196A1FE8C33C4C7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Stars Are Out (Interlude)</string>
+			<key>Artist</key><string>Dexter Britain</string>
+			<key>Album Artist</key><string>Dexter Britain</string>
+			<key>Album</key><string>Zenith</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Stars Are Out (Interlude)</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Dexter%20Britain/Zenith/03%20The%20Stars%20Are%20Out%20(Interlude).mp3</string>
+		</dict>
+		<key>7836</key>
+		<dict>
+			<key>Track ID</key><integer>7836</integer>
+			<key>Size</key><integer>8939426</integer>
+			<key>Total Time</key><integer>277080</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>254</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>474BC601B67D46F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>I Should Be Born (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/01%20I%20Should%20Be%20Born%20(Instrumental).mp3</string>
+		</dict>
+		<key>7839</key>
+		<dict>
+			<key>Track ID</key><integer>7839</integer>
+			<key>Size</key><integer>6887689</integer>
+			<key>Total Time</key><integer>240117</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>176C585671AA3AFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Heading For Nowhere (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/02%20Heading%20For%20Nowhere%20(Instrumental).mp3</string>
+		</dict>
+		<key>7842</key>
+		<dict>
+			<key>Track ID</key><integer>7842</integer>
+			<key>Size</key><integer>8600040</integer>
+			<key>Total Time</key><integer>277106</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB00B579E001C2DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Weathervanes (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/03%20Weathervanes%20(Instrumental).mp3</string>
+		</dict>
+		<key>7845</key>
+		<dict>
+			<key>Track ID</key><integer>7845</integer>
+			<key>Size</key><integer>7194889</integer>
+			<key>Total Time</key><integer>244035</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>231</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3C5675898A28DBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>No Nations (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/04%20No%20Nations%20(Instrumental).mp3</string>
+		</dict>
+		<key>7848</key>
+		<dict>
+			<key>Track ID</key><integer>7848</integer>
+			<key>Size</key><integer>6810218</integer>
+			<key>Total Time</key><integer>211043</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>252</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4779A7555F07141</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sure Sign (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/05%20Sure%20Sign%20(Instrumental).mp3</string>
+		</dict>
+		<key>7851</key>
+		<dict>
+			<key>Track ID</key><integer>7851</integer>
+			<key>Size</key><integer>7871615</integer>
+			<key>Total Time</key><integer>261198</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:25Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>236</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>582C06806A9E314E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Time Will Remember (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/06%20Time%20Will%20Remember%20(Instrumental).mp3</string>
+		</dict>
+		<key>7854</key>
+		<dict>
+			<key>Track ID</key><integer>7854</integer>
+			<key>Size</key><integer>10833571</integer>
+			<key>Total Time</key><integer>332068</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:25Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>257</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DBFA3BE0B3500840</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Fully Shed (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/07%20Fully%20Shed%20(Instrumental).mp3</string>
+		</dict>
+		<key>7857</key>
+		<dict>
+			<key>Track ID</key><integer>7857</integer>
+			<key>Size</key><integer>6023194</integer>
+			<key>Total Time</key><integer>181002</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:25Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>260</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>519012508BF3B798</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Always A First Time (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/08%20Always%20A%20First%20Time%20(Instrumental).mp3</string>
+		</dict>
+		<key>7860</key>
+		<dict>
+			<key>Track ID</key><integer>7860</integer>
+			<key>Size</key><integer>8546396</integer>
+			<key>Total Time</key><integer>292127</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:25Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8767C3FA50BC8E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's A Funny Thing (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/09%20It's%20A%20Funny%20Thing%20(Instrumental).mp3</string>
+		</dict>
+		<key>7863</key>
+		<dict>
+			<key>Track ID</key><integer>7863</integer>
+			<key>Size</key><integer>11888929</integer>
+			<key>Total Time</key><integer>404453</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-02-08T08:04:25Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F11FBF4CA7030472</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Tired Of The Comfort (Instrumental)</string>
+			<key>Artist</key><string>Jets Overhead</string>
+			<key>Album Artist</key><string>Jets Overhead</string>
+			<key>Album</key><string>No Nations (Instrumentals)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Jets%20Overhead/No%20Nations%20(Instrumentals)/10%20Tired%20Of%20The%20Comfort%20(Instrumental).mp3</string>
+		</dict>
+		<key>7866</key>
+		<dict>
+			<key>Track ID</key><integer>7866</integer>
+			<key>Size</key><integer>3850720</integer>
+			<key>Total Time</key><integer>168192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:51Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>179</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A721FAC0AEE6F42A</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/01%201%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7869</key>
+		<dict>
+			<key>Track ID</key><integer>7869</integer>
+			<key>Size</key><integer>4209568</integer>
+			<key>Total Time</key><integer>197232</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:47Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C88190FDC2C3EDE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>2 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/02%202%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7872</key>
+		<dict>
+			<key>Track ID</key><integer>7872</integer>
+			<key>Size</key><integer>6135808</integer>
+			<key>Total Time</key><integer>231024</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:42Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E5E51578C24E7EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>3 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/03%203%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7875</key>
+		<dict>
+			<key>Track ID</key><integer>7875</integer>
+			<key>Size</key><integer>3385120</integer>
+			<key>Total Time</key><integer>131520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:38Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>825597DF6701008C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>4 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/04%204%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7878</key>
+		<dict>
+			<key>Track ID</key><integer>7878</integer>
+			<key>Size</key><integer>3786496</integer>
+			<key>Total Time</key><integer>173568</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:33Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D31B368699971824</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>5 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/05%205%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7881</key>
+		<dict>
+			<key>Track ID</key><integer>7881</integer>
+			<key>Size</key><integer>5633104</integer>
+			<key>Total Time</key><integer>258480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:29Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7278916F6ACDB9BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>6 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/06%206%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7884</key>
+		<dict>
+			<key>Track ID</key><integer>7884</integer>
+			<key>Size</key><integer>3124480</integer>
+			<key>Total Time</key><integer>120576</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:24Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E59F07E7EA9FE847</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>7 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/07%207%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7887</key>
+		<dict>
+			<key>Track ID</key><integer>7887</integer>
+			<key>Size</key><integer>4107040</integer>
+			<key>Total Time</key><integer>175560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:19Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>806EA710B9A2A9B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>8 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/08%208%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7890</key>
+		<dict>
+			<key>Track ID</key><integer>7890</integer>
+			<key>Size</key><integer>3923680</integer>
+			<key>Total Time</key><integer>167160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T08:01:14Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC361D6652A13042</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>9 Ghosts I</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>Ghosts I-IV</string>
+			<key>Genre</key><string>Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/Ghosts%20I-IV/09%209%20Ghosts%20I.mp3</string>
+		</dict>
+		<key>7893</key>
+		<dict>
+			<key>Track ID</key><integer>7893</integer>
+			<key>Size</key><integer>2356828</integer>
+			<key>Total Time</key><integer>85133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3827CB5D0AF6AABA</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>999,999</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/01%20999,999.mp3</string>
+		</dict>
+		<key>7896</key>
+		<dict>
+			<key>Track ID</key><integer>7896</integer>
+			<key>Size</key><integer>6638860</integer>
+			<key>Total Time</key><integer>236199</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05A619C76C30AE96</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>1,000,000</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/02%201,000,000.mp3</string>
+		</dict>
+		<key>7899</key>
+		<dict>
+			<key>Track ID</key><integer>7899</integer>
+			<key>Size</key><integer>8093952</integer>
+			<key>Total Time</key><integer>229511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>280</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>419E75D3A99785B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Letting You</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/03%20Letting%20You.mp3</string>
+		</dict>
+		<key>7902</key>
+		<dict>
+			<key>Track ID</key><integer>7902</integer>
+			<key>Size</key><integer>8337817</integer>
+			<key>Total Time</key><integer>259186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>255</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E60D7628630BB78</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Discipline</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/04%20Discipline.mp3</string>
+		</dict>
+		<key>7905</key>
+		<dict>
+			<key>Track ID</key><integer>7905</integer>
+			<key>Size</key><integer>8703453</integer>
+			<key>Total Time</key><integer>285231</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:49Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF7D0298FEB85B48</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Echoplex</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/05%20Echoplex.mp3</string>
+		</dict>
+		<key>7908</key>
+		<dict>
+			<key>Track ID</key><integer>7908</integer>
+			<key>Size</key><integer>9095450</integer>
+			<key>Total Time</key><integer>295471</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>244</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7109125D5D26475</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Head Down</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/06%20Head%20Down.mp3</string>
+		</dict>
+		<key>7911</key>
+		<dict>
+			<key>Track ID</key><integer>7911</integer>
+			<key>Size</key><integer>4490576</integer>
+			<key>Total Time</key><integer>209632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>55</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>169</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0869AA797C8AF9F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lights in the Sky</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/07%20Lights%20in%20the%20Sky.mp3</string>
+		</dict>
+		<key>7914</key>
+		<dict>
+			<key>Track ID</key><integer>7914</integer>
+			<key>Size</key><integer>12220706</integer>
+			<key>Total Time</key><integer>453694</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>55</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E52863BD50AB76BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Corona Radiata</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/08%20Corona%20Radiata.mp3</string>
+		</dict>
+		<key>7917</key>
+		<dict>
+			<key>Track ID</key><integer>7917</integer>
+			<key>Size</key><integer>8241771</integer>
+			<key>Total Time</key><integer>277629</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:50Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FF6BC9E6347486D</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Four of Us are Dying</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Four of Us are Dying</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/09%20The%20Four%20of%20Us%20are%20Dying.mp3</string>
+		</dict>
+		<key>7920</key>
+		<dict>
+			<key>Track ID</key><integer>7920</integer>
+			<key>Size</key><integer>9350055</integer>
+			<key>Total Time</key><integer>299493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2016-02-08T07:54:51Z</date>
+			<key>Date Added</key><date>2016-07-21T15:25:12Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C6087D74E1F930B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Demon Seed</string>
+			<key>Artist</key><string>Nine Inch Nails</string>
+			<key>Composer</key><string>Trent Reznor</string>
+			<key>Album</key><string>The Slip</string>
+			<key>Genre</key><string>Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Album</key><string>Slip</string>
+			<key>Location</key><string>https://storage.googleapis.com/juke-1379.appspot.com/juke-music/Nine%20Inch%20Nails/The%20Slip/10%20Demon%20Seed.mp3</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+        </array>
+</dict>
+</plist>
